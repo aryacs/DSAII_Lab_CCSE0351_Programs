@@ -4,7 +4,7 @@ In DSA-II(CCSE0301)-> Unit-1 Tree Data Structure
     -Min no of nodes in any binary tree at height h
         n = h+1
     -Max no of Nodes in any binary tree at height h
-        n = 2h+1 -1
+        n = 2^h+1 -1
 
 
 
